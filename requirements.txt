@@ -1,8 +1,12 @@
+arxiv
 brightway2
+duckduckgo-search
+e2b
 fastapi
 langchain
 langchain_experimental
 openai
+pinecone-client
 python-dotenv
 streamlit
 xata
