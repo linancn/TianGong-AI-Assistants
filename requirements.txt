@@ -1,0 +1,8 @@
+brightway2
+fastapi
+langchain
+langchain_experimental
+openai
+python-dotenv
+streamlit
+xata
